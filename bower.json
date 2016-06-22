@@ -1,0 +1,8 @@
+{
+  "name": "PSP-Media combodate directive",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "~1.3",
+    "combodate": "git+https://github.com/jo-soft/combodate#master"
+  }
+}
