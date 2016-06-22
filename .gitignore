@@ -1,0 +1,8 @@
+generated/*
+deploy/*
+
+node_modules/*
+vendor/bower/*
+.htaccess
+
+.idea/
